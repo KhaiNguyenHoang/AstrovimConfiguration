@@ -1,0 +1,38 @@
+---@type LazySpec
+return {
+  {
+    "WhoIsSethDaniel/mason-tool-installer.nvim",
+    optional = true,
+    opts = {
+      ensure_installed = {
+        -- install language servers
+        "taplo",
+        "emmet-ls",
+        "marksman",
+        "sqls",
+        "yaml-language-server",
+
+        -- install formatters
+        "rust-analyzer",
+        "stylua",
+        "markdown-toc",
+        "isort",
+        "black",
+
+        -- linters
+        "shellcheck",
+        "dotenv-linter",
+
+        -- install debuggers
+        "debugpy",
+        "local-lua-debugger-vscode",
+        "firefox-debug-adapter",
+
+        -- install any other package
+        "tree-sitter-cli",
+        "fish-lsp",
+        "gh-actions-language-server",
+      },
+    },
+  },
+}
