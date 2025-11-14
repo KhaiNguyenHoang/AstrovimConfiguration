@@ -115,6 +115,7 @@
   "smm.nvim": { "branch": "master", "commit": "049daa49fb9a81ab833c0865d9ea50468cff0098" },
   "snacks.nvim": { "branch": "main", "commit": "bd71cd4b007fd414f2bd3e4ce7d292fde4b8849f" },
   "spring-boot.nvim": { "branch": "main", "commit": "dff5fc9ff38dc60514caf95d57b0dbcd4da9028a" },
+  "spring-initializr.nvim": { "branch": "main", "commit": "bfd12195d55e9fe4bd4ed87419f838eb335a72e1" },
   "springboot-nvim": { "branch": "main", "commit": "105fb2a0b54fbd819200b244e8079c4c9f1a8415" },
   "store.nvim": { "branch": "main", "commit": "df430716b095719f7221f2fb50be696879ca7c34" },
   "suda.vim": { "branch": "master", "commit": "c492741b4679b3cdd4d9e34138209784e061d916" },
