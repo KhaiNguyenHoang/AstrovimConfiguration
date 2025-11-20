@@ -9,7 +9,6 @@ return {
         "taplo",
         "emmet-ls",
         "marksman",
-        "sqls",
         "yaml-language-server",
 
         -- install formatters
